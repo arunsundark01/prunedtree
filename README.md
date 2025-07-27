@@ -6,9 +6,9 @@ This helps avoid overfitting without manual hyperparameter tuning.
 
 ---
 
-## 📦 Installation
+## Installation
 
-### ✅ Recommended: Install from PyPI
+### Recommended: Install from PyPI
 
 ```bash
 pip install prunetree
